@@ -59,7 +59,7 @@ python model/train_model.py
 
 ## 📊 Model Performance
 
-![/home/pascal/Aetherflow/Screenshot (626).png](performance_metrics)
+[/home/pascal/Aetherflow/Screenshot (626).png](performance_metrics)
 ## 🚀 Deployment Plan
 
 1. **Model Training:**  
