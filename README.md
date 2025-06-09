@@ -1,4 +1,4 @@
-# AetherFlow
+![Screenshot (626)](https://github.com/user-attachments/assets/b13451bf-d364-43b6-ab3a-d464e1866a79)# AetherFlow
 
 AetherFlow is an embedded AI-powered system for early prediction of vaso-occlusive crises (VOC) in sickle cell disease patients. It uses symptom data and a machine learning model to provide real-time risk assessment, helping patients and caregivers take preventive action.
 
@@ -59,7 +59,8 @@ python model/train_model.py
 
 ## 📊 Model Performance
 
-[/home/pascal/Aetherflow/Screenshot (626).png](performance_metrics)
+![Screenshot (626)](https://github.com/user-attachments/assets/519d97de-6dc2-4aa6-83ff-f667e86bfaed)
+
 ## 🚀 Deployment Plan
 
 1. **Model Training:**  
